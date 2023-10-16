@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.container {
+  display: flex;
+  background-color: #f3f0f0;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
